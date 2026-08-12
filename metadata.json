@@ -1,0 +1,6 @@
+{
+  "name": "Ондук бөлчөктөрдү кошуу жана кемитүү",
+  "description": "Ондук бөлчөктөрдү кошуу жана кемитүү боюнча эрежелер, даяр мисалдар, кадам-кадам чыгаруулар жана интерактивдүү машыгуулар.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
